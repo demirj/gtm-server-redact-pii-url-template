@@ -1,4 +1,12 @@
-﻿___INFO___
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
 
 {
   "type": "MACRO",
@@ -53,8 +61,8 @@ ___TEMPLATE_PARAMETERS___
 ___SANDBOXED_JS_FOR_SERVER___
 
 // Load required APIs
-const queryPermission = require('queryPermission');
 const getEventData = require('getEventData');
+const queryPermission = require('queryPermission');
 
 // Variable setup
 const pageLocation = 'page_location';
@@ -136,6 +144,4 @@ scenarios: []
 
 ___NOTES___
 
-Created on 17.5.2022, 14:15:36
-
-
+Created on 17.5.2022, 14:24:01
