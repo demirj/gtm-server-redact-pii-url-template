@@ -1,0 +1,5 @@
+homepage: "https://www.demirjasarevic.com/"
+documentation: "https://github.com/demirj/gtm-server-redact-pii-url-template/blob/main/README.md"
+versions:
+  - sha: 75a22fabf4fc4e198a8ab0887e2aed3cc9f1a28c
+    changeNotes: Initial release.
