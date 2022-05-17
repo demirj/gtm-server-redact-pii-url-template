@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Redact PII from URL",
+  "categories": ["ANALYTICS"],
   "description": "Removes PII data from URL based on typical PII pattern.",
   "containerContexts": [
     "SERVER"
